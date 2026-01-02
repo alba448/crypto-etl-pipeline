@@ -11,6 +11,6 @@ Este proyecto replica un flujo de datos profesional similar a los arquitectados 
 
 ### Conceptos de Ingeniería de Datos aplicados:
 
-* [cite_start]**Estándares de calidad de datos:** Implementación de validaciones y métricas de integridad similares a los estándares **Datum** utilizados en entornos bancarios[cite: 3].
+* **Estándares de calidad de datos:** Implementación de validaciones y métricas de integridad similares a los estándares **Datum** utilizados en entornos bancarios.
 * **Seguridad:** Gestión profesional de credenciales mediante el manejo de variables de entorno.
 * **Calidad de Software:** Estructura de código modularizada siguiendo principios de **Clean Code** para facilitar el mantenimiento y la escalabilidad.
